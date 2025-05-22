@@ -1,7 +1,7 @@
 ## DAY 1
 
 ### starting by storing some information about a person
-name = "Digbijoy"          ##  i know a bit about phyton so i can make it take inputs but lets stick to the book##
+name = "Digbijoy"          ##  i learnt a bit of pyton so i can make it take inputs but lets stick to the book##
 age = 25                   # :3 if someone wants to do that though its like  name = input("what is your name :")
 height_meters = 1.75
 is_student = True  # True means yes False  means no
