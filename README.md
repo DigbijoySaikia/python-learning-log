@@ -22,7 +22,7 @@ This repository tracks my Python learning journey through practical examples and
 - [x] exercise
 ### Week 2 – Data Structures & Files
 
-- [ ] Lesson 6: Lists and Loops
+- [x] Lesson 6: Lists and Loops
 - [ ] Lesson 7: Tuples and Sets
 - [ ] Lesson 8: Dictionaries and Nesting
 - [ ] Lesson 9: File Reading and Writing
